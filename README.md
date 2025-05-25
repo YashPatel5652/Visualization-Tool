@@ -9,8 +9,11 @@ An interactive and user-friendly **Streamlit** application that allows you to up
 ✅ Upload and preview CSV datasets  
 ✅ Filter data based on column values  
 ✅ Choose from **12+ Plot Types**, including:
+</br>
     - Scatter, Line, Bar, Area, Histogram, Box, Violin
+</br>
     - Heatmap, Pie Chart, Bubble Chart
+</br>
     - Treemap, Sunburst Chart  
 
 ✅ Use **Plotly** (interactive) or **Matplotlib/Seaborn** (static)  
