@@ -31,3 +31,17 @@ pip install streamlit pandas matplotlib seaborn plotly fpdf pillow
 python -m streamlit Visualization_Tool.py
 ```
 ---
+## 🖼️ Screenshots
+
+### 🔍 Filter and Upload
+*Add `upload_filter.png` here*
+
+### 📈 Plot Selection and Visualization
+*Add `plot_example.png` here*
+
+### 📄 Export to PDF
+*Add `pdf_export.png` here*
+
+> *(Place your screenshots in a `screenshots/` folder and replace this text with actual image links if hosting them online or referencing locally.)*
+
+---
